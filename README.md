@@ -62,10 +62,10 @@ We have also created small modular workshops for each section of MS Learn. **The
 
 ### Checklist :white_check_mark:
 
-- [ ] Week 1 (15 APR - 21 APR)
-  - [ ] [Git](https://docs.microsoft.com/en-us/learn/modules/introduction-to-github/)
-  - [ ] [1. Git Workshop](https://github.com/NZMSA/2022-Phase-1/tree/main/1.%20Git%20workshop)
-  - [ ] [AI and Machine Learning](https://docs.microsoft.com/en-us/learn/paths/get-started-with-artificial-intelligence-on-azure/)
+- [x] Week 1 (15 APR - 21 APR)
+  - [x] [Git](https://docs.microsoft.com/en-us/learn/modules/introduction-to-github/)
+  - [x] [1. Git Workshop](https://github.com/NZMSA/2022-Phase-1/tree/main/1.%20Git%20workshop)
+  - [x] [AI and Machine Learning](https://docs.microsoft.com/en-us/learn/paths/get-started-with-artificial-intelligence-on-azure/)
 - [ ] Week 2 (22 APR - 28 APR)
   - [ ] First half of [Python](https://docs.microsoft.com/en-us/learn/paths/beginner-python/) (that's the first **6** modules)
 - [ ] Week 3 (29 APR - 5 MAY)
@@ -102,16 +102,16 @@ We have also created small modular workshops for each section of MS Learn. **The
 As you go through and do these modules, you'll find that you need quite a few tools to complete some of the workshops as well as the modules. To help facilitate this process of trying to get everything downloaded, we've compiled a list here:
 
 - [ ] Required Tools
-  - [ ] [Node.JS](https://nodejs.org/en/)
-  - [ ] [Git](https://git-scm.com/)
-  - [ ] [Python](https://www.python.org/downloads/)
-  - [ ] [React](https://reactjs.org/docs/create-a-new-react-app.html)
+  - [x] [Node.JS](https://nodejs.org/en/)
+  - [x] [Git](https://git-scm.com/)
+  - [x] [Python](https://www.python.org/downloads/)
+  - [x] [React](https://reactjs.org/docs/create-a-new-react-app.html)
   - [ ] [.NET](https://dotnet.microsoft.com/en-us/download)
 - [ ] Development Environments
-  - [ ] [VS Code](https://code.visualstudio.com/) a lightweight IDE suitable for developing any language, with a bit of fine-tuning (I'd recommend googling on how to set it up for use)
+  - [x] [VS Code](https://code.visualstudio.com/) a lightweight IDE suitable for developing any language, with a bit of fine-tuning (I'd recommend googling on how to set it up for use)
   - [ ] [JetBrains Rider](https://www.jetbrains.com/rider/) is an alternative IDE to Visual Studio (and, IMO, runs about a million times faster)
     - [ ] [Free License](https://www.jetbrains.com/community/education/#students) for students
-  - [ ] [Visual Studio](https://visualstudio.microsoft.com/vs/community/) the c# IDE
+  - [x] [Visual Studio](https://visualstudio.microsoft.com/vs/community/) the c# IDE
   - [ ] [Fork](https://git-fork.com/) is meant to be paid, but it doesn't lock you out of anything if your trial expires so **shhhh**. Makes managing and visualising git much easier
 
 ---

@@ -27,11 +27,11 @@ There are a plethora of modules within MS Learn ranging from incredibly difficul
 
 ### Developer tools
 
-- [ ] [Git](https://docs.microsoft.com/en-us/learn/modules/introduction-to-github/) is a Version Control System (VCS) which is useful for collaborating with others, but also acts as a save system for developers to checkpoint their own progress (and to re-load from bad decisions and their consequences).
+- [x] [Git](https://docs.microsoft.com/en-us/learn/modules/introduction-to-github/) is a Version Control System (VCS) which is useful for collaborating with others, but also acts as a save system for developers to checkpoint their own progress (and to re-load from bad decisions and their consequences).
 
 ### Programming Languages
 
-- [ ] [Python](https://docs.microsoft.com/en-us/learn/paths/beginner-python/) is an incredibly useful scripting language used widely in the data science community, but is also useful for creating small pieces of supportive code
+- [x] [Python](https://docs.microsoft.com/en-us/learn/paths/beginner-python/) is an incredibly useful scripting language used widely in the data science community, but is also useful for creating small pieces of supportive code
 - [ ] [C#](https://docs.microsoft.com/en-us/learn/paths/csharp-first-steps/) is a programming language created by Microsoft and is used in a wide range of industry applications from front-end web applications to back-end APIs. Often combined with [.NET](https://dotnet.microsoft.com/en-us/learn/dotnet/what-is-dotnet) which is an open source developer platform, created by Microsoft, for building many different types of applications.
 
 ### Web Development
@@ -51,7 +51,7 @@ There are a plethora of modules within MS Learn ranging from incredibly difficul
 
 ### AI/Machine Learning
 
-- [ ] [AI and Machine Learning](https://docs.microsoft.com/en-us/learn/paths/get-started-with-artificial-intelligence-on-azure/) are complex topics, and are hard to wrap your head around without a lot of pre-requisite knowledge. To help dip your toes in, we've linked in a module for helping explain the basics at a high-level.
+- [x] [AI and Machine Learning](https://docs.microsoft.com/en-us/learn/paths/get-started-with-artificial-intelligence-on-azure/) are complex topics, and are hard to wrap your head around without a lot of pre-requisite knowledge. To help dip your toes in, we've linked in a module for helping explain the basics at a high-level.
 
 ---
 
@@ -71,9 +71,9 @@ We have also created small modular workshops for each section of MS Learn. **The
   - [x] [AI and Machine Learning](https://docs.microsoft.com/en-us/learn/paths/get-started-with-artificial-intelligence-on-azure/)
 - [x] Week 2 (22 APR - 28 APR)
   - [x] First half of [Python](https://docs.microsoft.com/en-us/learn/paths/beginner-python/) (that's the first **6** modules)
-- [ ] Week 3 (29 APR - 5 MAY)
-  - [ ] Second half of [Python](https://docs.microsoft.com/en-us/learn/paths/beginner-python/) (that's the second **6** modules)
-  - [ ] [2. Python Workshop](https://github.com/NZMSA/2022-Phase-1/tree/main/2.%20Python%20workshop)
+- [x] Week 3 (29 APR - 5 MAY)
+  - [x] Second half of [Python](https://docs.microsoft.com/en-us/learn/paths/beginner-python/) (that's the second **6** modules)
+  - [x] [2. Python Workshop](https://github.com/NZMSA/2022-Phase-1/tree/main/2.%20Python%20workshop)
 - [ ] Week 4 (6 MAY - 12 MAY)
   - [ ] [RESTful APIs](https://docs.microsoft.com/en-us/learn/modules/build-web-api-minimal-api/)
   - [ ] [3. RESTful-API workshop](https://github.com/NZMSA/2022-Phase-1/tree/main/3.%20RESTful-API%20workshop)

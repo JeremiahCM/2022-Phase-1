@@ -47,7 +47,7 @@ There are a plethora of modules within MS Learn ranging from incredibly difficul
 
 ### Databases
 
-- [ ] [Relational Databases](https://docs.microsoft.com/en-us/learn/modules/explore-relational-data-offerings/) are a way to represent stored data. This can be used in combination with an API to create, read, update or delete entries in the database. For example, if you have a website where users are prompted to sign up with user credentials, that user's sign up information will likely be stored using a Relational Database.
+- [x] [Relational Databases](https://docs.microsoft.com/en-us/learn/modules/explore-relational-data-offerings/) are a way to represent stored data. This can be used in combination with an API to create, read, update or delete entries in the database. For example, if you have a website where users are prompted to sign up with user credentials, that user's sign up information will likely be stored using a Relational Database.
 
 ### AI/Machine Learning
 
@@ -77,8 +77,8 @@ We have also created small modular workshops for each section of MS Learn. **The
 - [ ] Week 4 (6 MAY - 12 MAY)
   - [x] [RESTful APIs](https://docs.microsoft.com/en-us/learn/modules/build-web-api-minimal-api/)
   - [ ] [3. RESTful-API workshop](https://github.com/NZMSA/2022-Phase-1/tree/main/3.%20RESTful-API%20workshop)
-  - [ ] [Relational Databases](https://docs.microsoft.com/en-us/learn/modules/explore-relational-data-offerings/)
-  - [ ] [4. Relational DB workshop](https://github.com/NZMSA/2022-Phase-1/tree/main/4.%20Relational%20DB%20workshop)
+  - [x] [Relational Databases](https://docs.microsoft.com/en-us/learn/modules/explore-relational-data-offerings/)
+  - [x] [4. Relational DB workshop](https://github.com/NZMSA/2022-Phase-1/tree/main/4.%20Relational%20DB%20workshop)
 - [ ] Week 5 (13 MAY - 19 MAY)
   - [ ] First half of [C#](https://docs.microsoft.com/en-us/learn/paths/csharp-first-steps/) (that's the first **4** modules)
 - [ ] Week 6 (20 MAY - 26 MAY)

@@ -1,4 +1,23 @@
 body {
-    background-color: beige;
-    color: #800080;
+    background-color: purple;
+    color: white
+}
+
+#list {
+    background-color: #4040bb;
+}
+
+#btn {
+    background-color: green;
+    color: white;
+}
+
+.table {
+    background-color: red;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }

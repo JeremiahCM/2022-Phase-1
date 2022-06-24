@@ -36,7 +36,7 @@ There are a plethora of modules within MS Learn ranging from incredibly difficul
 
 ### Web Development
 
-- [ ] [HTML & CSS](https://docs.microsoft.com/en-us/learn/modules/build-simple-website/) are the backbone of any web-page. Knowing what these are and how they are structured is fundamental for doing any web development work.
+- [x] [HTML & CSS](https://docs.microsoft.com/en-us/learn/modules/build-simple-website/) are the backbone of any web-page. Knowing what these are and how they are structured is fundamental for doing any web development work.
 - [ ] [JavaScript](https://docs.microsoft.com/en-us/learn/paths/web-development-101/) is the fundamental language for running code on the browser. This is what is leveraged (usually) to create rich and seamless user interfaces and experiences on the web.
 - [ ] [TypeScript](https://docs.microsoft.com/en-us/learn/paths/build-javascript-applications-typescript/) is an open-source language by Microsoft which builds upon the original syntax of JavaScript. It provides features such as static type definitions, classes and interfaces which makes it easier for developers to resolve issues, as your application becomes larger. **NOTE** - **ONLY THE FIRST 4 MODULES ARE ESPECIALLY USEFUL** - The remaining content is more advanced, and is unlikely to come up in our use-case for TS starting out. If you feel like you need additional knowledge, go ahead and finish this learning path - we're not going to stop you :smile:
 - [ ] [React](https://docs.microsoft.com/en-us/learn/paths/react/) is a highly versatile view engine used to combine HTML, CSS and JS into one cohesive block (known as _components_). This makes web development much more streamlined and efficient when making changes to the UI. **NOTE** - **IGNORE THIS [PAGE](https://docs.microsoft.com/en-us/learn/modules/react-states-events/4-events)**
@@ -47,7 +47,7 @@ There are a plethora of modules within MS Learn ranging from incredibly difficul
 
 ### Databases
 
-- [ ] [Relational Databases](https://docs.microsoft.com/en-us/learn/modules/explore-relational-data-offerings/) are a way to represent stored data. This can be used in combination with an API to create, read, update or delete entries in the database. For example, if you have a website where users are prompted to sign up with user credentials, that user's sign up information will likely be stored using a Relational Database.
+- [x] [Relational Databases](https://docs.microsoft.com/en-us/learn/modules/explore-relational-data-offerings/) are a way to represent stored data. This can be used in combination with an API to create, read, update or delete entries in the database. For example, if you have a website where users are prompted to sign up with user credentials, that user's sign up information will likely be stored using a Relational Database.
 
 ### AI/Machine Learning
 
@@ -75,18 +75,18 @@ We have also created small modular workshops for each section of MS Learn. **The
   - [x] Second half of [Python](https://docs.microsoft.com/en-us/learn/paths/beginner-python/) (that's the second **6** modules)
   - [x] [2. Python Workshop](https://github.com/NZMSA/2022-Phase-1/tree/main/2.%20Python%20workshop)
 - [ ] Week 4 (6 MAY - 12 MAY)
-  - [ ] [RESTful APIs](https://docs.microsoft.com/en-us/learn/modules/build-web-api-minimal-api/)
+  - [x] [RESTful APIs](https://docs.microsoft.com/en-us/learn/modules/build-web-api-minimal-api/)
   - [ ] [3. RESTful-API workshop](https://github.com/NZMSA/2022-Phase-1/tree/main/3.%20RESTful-API%20workshop)
-  - [ ] [Relational Databases](https://docs.microsoft.com/en-us/learn/modules/explore-relational-data-offerings/)
-  - [ ] [4. Relational DB workshop](https://github.com/NZMSA/2022-Phase-1/tree/main/4.%20Relational%20DB%20workshop)
-- [ ] Week 5 (13 MAY - 19 MAY)
-  - [ ] First half of [C#](https://docs.microsoft.com/en-us/learn/paths/csharp-first-steps/) (that's the first **4** modules)
+  - [x] [Relational Databases](https://docs.microsoft.com/en-us/learn/modules/explore-relational-data-offerings/)
+  - [x] [4. Relational DB workshop](https://github.com/NZMSA/2022-Phase-1/tree/main/4.%20Relational%20DB%20workshop)
+- [x] Week 5 (13 MAY - 19 MAY)
+  - [x] First half of [C#](https://docs.microsoft.com/en-us/learn/paths/csharp-first-steps/) (that's the first **4** modules)
 - [ ] Week 6 (20 MAY - 26 MAY)
-  - [ ] Second half of [C#](https://docs.microsoft.com/en-us/learn/paths/csharp-first-steps/) (that's the second **4** modules)
+  - [x] Second half of [C#](https://docs.microsoft.com/en-us/learn/paths/csharp-first-steps/) (that's the second **4** modules)
   - [ ] [5. C# workshop](https://github.com/NZMSA/2022-Phase-1/tree/main/5.%20C%23%20workshop)
-- [ ] Week 7 (27 MAY - 2 JUN)
-  - [ ] [HTML & CSS](https://docs.microsoft.com/en-us/learn/modules/build-simple-website/)
-  - [ ] [6. HTML & CSS workshop](https://github.com/NZMSA/2022-Phase-1/tree/main/6.%20HTML%2BCSS%20workshop)
+- [x] Week 7 (27 MAY - 2 JUN)
+  - [x] [HTML & CSS](https://docs.microsoft.com/en-us/learn/modules/build-simple-website/)
+  - [x] [6. HTML & CSS workshop](https://github.com/NZMSA/2022-Phase-1/tree/main/6.%20HTML%2BCSS%20workshop)
 - [ ] Week 8 (3 JUN - 9 JUN)
   - [ ] [JavaScript](https://docs.microsoft.com/en-us/learn/paths/web-development-101/)
   - [ ] [7. JavaScript workshop](https://github.com/NZMSA/2022-Phase-1/tree/main/7.%20JS%20workshop)
@@ -104,12 +104,12 @@ We have also created small modular workshops for each section of MS Learn. **The
 
 As you go through and do these modules, you'll find that you need quite a few tools to complete some of the workshops as well as the modules. To help facilitate this process of trying to get everything downloaded, we've compiled a list here:
 
-- [ ] Required Tools
+- [x] Required Tools
   - [x] [Node.JS](https://nodejs.org/en/)
   - [x] [Git](https://git-scm.com/)
   - [x] [Python](https://www.python.org/downloads/)
   - [x] [React](https://reactjs.org/docs/create-a-new-react-app.html)
-  - [ ] [.NET](https://dotnet.microsoft.com/en-us/download)
+  - [x] [.NET](https://dotnet.microsoft.com/en-us/download)
 - [ ] Development Environments
   - [x] [VS Code](https://code.visualstudio.com/) a lightweight IDE suitable for developing any language, with a bit of fine-tuning (I'd recommend googling on how to set it up for use)
   - [ ] [JetBrains Rider](https://www.jetbrains.com/rider/) is an alternative IDE to Visual Studio (and, IMO, runs about a million times faster)
